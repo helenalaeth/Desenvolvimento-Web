@@ -1,6 +1,6 @@
 # Desenvolvimento-Web
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"> NODE </img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100"> </img>
           
 
 <h2>Laboratório 64</h2> 
