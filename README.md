@@ -8,7 +8,6 @@
 No LAB64, criamos um server utilizando Node.JS
 <br>
 <h4>Comando para rodar o server:</h4>
-<br>
 node server js 
 <br>
 OBS: express precisa estar instalado.
@@ -16,12 +15,10 @@ OBS: express precisa estar instalado.
 <h3>LINKS</h3> 
 <br>
 <h6>Página inicial:</h6>
-<br>
 http://localhost:3000/ 
 <br>
 <h6>Sobre nós:</h6>
 http://localhost:3000/sobre
 <br>
 <h6>Erro 404:</h6>
-<br>
 http://localhost:3000/'qualquercoisa'
