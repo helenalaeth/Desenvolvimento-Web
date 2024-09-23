@@ -24,4 +24,4 @@ http://localhost:3000/sobre
 <br>
 <h6>Erro 404</h6>
 <br>
-http://localhost:3000/<qualquercoisa>
+http://localhost:3000/'qualquercoisa'
