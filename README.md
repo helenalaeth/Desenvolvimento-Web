@@ -9,8 +9,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="150" height="150" />
 </div>
 
+<div align="center">
+  <h2>Laboratório 64</h2> 
+</div>
 
-<h2>Laboratório 64</h2> 
 <br>
 No LAB64, criamos um server utilizando Node.JS
 <br>
