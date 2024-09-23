@@ -23,10 +23,10 @@ OBS: express precisa estar instalado, com o comando <bold>npm install express</b
 
 <h3>LINKS</h3> 
 <h6>Página inicial:</h6>
-<bold>http://localhost:3000/</bold>
+<strong>http://localhost:3000/</strong>
 <br>
 <h6>Sobre nós:</h6>
-<bold>http://localhost:3000/sobre</bold>
+<strong>http://localhost:3000/sobre</strong>
 <br>
 <h6>Erro 404:</h6>
-<bold>http://localhost:3000/'qualquercoisa'</bold>
+<strong>http://localhost:3000/'qualquercoisa'</strong>
