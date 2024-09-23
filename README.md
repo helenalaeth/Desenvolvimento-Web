@@ -19,14 +19,14 @@ No LAB64, criamos um server utilizando Node.JS
 <h4>Comando para rodar o server:</h4>
 node server js 
 <br>
-OBS: express precisa estar instalado.
+OBS: express precisa estar instalado, com o comando <bold>npm install express</bold>
 
 <h3>LINKS</h3> 
 <h6>Página inicial:</h6>
-http://localhost:3000/ 
+<bold>http://localhost:3000/</bold>
 <br>
 <h6>Sobre nós:</h6>
-http://localhost:3000/sobre
+<bold>http://localhost:3000/sobre</bold>
 <br>
 <h6>Erro 404:</h6>
-http://localhost:3000/'qualquercoisa'
+<bold>http://localhost:3000/'qualquercoisa'</bold>
