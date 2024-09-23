@@ -1,6 +1,8 @@
 # Desenvolvimento-Web
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="200" height="200" img-align="center"> </img>
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="200" height="200" />
+</div>
           
 
 <h2>Laboratório 64</h2> 
