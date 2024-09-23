@@ -22,6 +22,6 @@ http://localhost:3000/
 <h6>Sobre nós:</h6>
 http://localhost:3000/sobre
 <br>
-<h6>Erro 404</h6>
+<h6>Erro 404:</h6>
 <br>
 http://localhost:3000/'qualquercoisa'
