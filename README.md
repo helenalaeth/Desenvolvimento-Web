@@ -46,4 +46,5 @@ curl http://127.0.0.1:3000/sobre
 <br>
 <strong>Upload de arquivo:</strong>
 curl -X POST -F "file=@caminho_para_arquivo/arquivo.txt" http://127.0.0.1:3000/upload
+OBS: Substitua caminho_para_arquivo/arquivo.txt pelo caminho real do arquivo que você deseja enviar.
 
