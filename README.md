@@ -36,7 +36,6 @@
 <strong>http://localhost:3000/'qualquercoisa'</strong>
 <br>
 <br>
-<br>
 
 <h3>Comandos para Teste</h3>
 <strong>Testar a página inicial:</strong>
