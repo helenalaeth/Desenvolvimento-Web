@@ -37,6 +37,8 @@
 <br>
 <br>
 <br>
+
+<h3>Comandos para Teste</h3>
 <strong>Testar a página inicial:</strong>
 curl http://127.0.0.1:3000/
 <br>
