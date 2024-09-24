@@ -19,9 +19,6 @@
 <br>
 <strong>Entre na pasta do LAB64 antes de digitar qualquer comando!</strong>
 
-<h4>--> Express deve ser instalado com o comando:</h4>
-
- <strong>npm install express</strong>
 
 <h4>--> Comando para rodar o server:</h4>
 <strong>node server js</strong> 
