@@ -19,7 +19,7 @@
 <br>
 <strong>Entre na pasta do LAB64 antes de digitar qualquer comando!</strong>
 
-<h4>--> Express precisa estar instalado com o comando:</h4>
+<h4>--> Express deve ser instalado com o comando:</h4>
 
  <strong>npm install express</strong>
 
