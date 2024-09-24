@@ -35,6 +35,8 @@
 <h6>Erro 404:</h6>
 <strong>http://localhost:3000/'qualquercoisa'</strong>
 <br>
+<br>
+<br>
 <strong>Testar a página inicial:</strong>
 curl http://127.0.0.1:3000/
 <br>
