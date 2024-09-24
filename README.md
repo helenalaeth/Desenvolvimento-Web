@@ -17,12 +17,12 @@
 No LAB64, criamos um server utilizando Node.JS
 <br>
 <br>
-OBS: express precisa estar instalado, com o comando 
+OBS: express precisa estar instalado, com o comando:
 
  <strong>npm install express</strong>
 
 <h4>Comando para rodar o server:</h4>
-node server js 
+<strong>node server js</strong> 
 
 <h3>LINKS</h3> 
 <h6>Página inicial:</h6>
