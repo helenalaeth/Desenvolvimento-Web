@@ -14,12 +14,12 @@
 </div>
 
 <br>
-No LAB64, criamos um server utilizando Node.JS
+<h3>No LAB64, criamos um server utilizando Node.JS</h3>
 <br>
 <br>
 <strong>Entre na pasta do LAB64 antes de digitar qualquer comando!</strong>
 
-<h6>express precisa estar instalado com o comando:</h6>
+<h5>express precisa estar instalado com o comando:</h5>
 
  <strong>npm install express</strong>
 
