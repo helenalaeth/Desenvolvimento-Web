@@ -19,14 +19,14 @@
 <br>
 <strong>Entre na pasta do LAB64 antes de digitar qualquer comando!</strong>
 
-<h5>express precisa estar instalado com o comando:</h5>
+<h4>--> Express precisa estar instalado com o comando:</h4>
 
  <strong>npm install express</strong>
 
-<h4>Comando para rodar o server:</h4>
+<h4>--> Comando para rodar o server:</h4>
 <strong>node server js</strong> 
 
-<h3>LINKS</h3> 
+<h3>**LINKS**</h3> 
 <h6>Página inicial:</h6>
 <strong>http://localhost:3000/</strong>
 <br>
