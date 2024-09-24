@@ -34,3 +34,13 @@
 <strong>http://localhost:3000/upload</strong>
 <h6>Erro 404:</h6>
 <strong>http://localhost:3000/'qualquercoisa'</strong>
+<br>
+<strong>Testar a página inicial:</strong>
+curl http://127.0.0.1:3000/
+<br>
+<strong>Testar a página Sobre:</strong>
+curl http://127.0.0.1:3000/sobre
+<br>
+<strong>Upload de arquivo:</strong>
+curl -X POST -F "file=@caminho_para_arquivo/arquivo.txt" http://127.0.0.1:3000/upload
+
