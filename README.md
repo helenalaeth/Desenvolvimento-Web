@@ -14,19 +14,24 @@
 </div>
 
 <br>
-No LAB64, criamos um server utilizando Node.JS
+<h3>No LAB64, criamos um server utilizando Node.JS</h3>
 <br>
-<h4>Comando para rodar o server:</h4>
-node server js 
 <br>
-OBS: express precisa estar instalado.
+<strong>Entre na pasta do LAB64 antes de digitar qualquer comando!</strong>
 
-<h3>LINKS</h3> 
+<h4>--> Express deve ser instalado com o comando:</h4>
+
+ <strong>npm install express</strong>
+
+<h4>--> Comando para rodar o server:</h4>
+<strong>node server js</strong> 
+
+<h3>**LINKS**</h3> 
 <h6>Página inicial:</h6>
-http://localhost:3000/ 
+<strong>http://localhost:3000/</strong>
 <br>
 <h6>Sobre nós:</h6>
-http://localhost:3000/sobre
+<strong>http://localhost:3000/sobre</strong>
 <br>
 <h6>Erro 404:</h6>
-http://localhost:3000/'qualquercoisa'
+<strong>http://localhost:3000/'qualquercoisa'</strong>
