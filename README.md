@@ -33,5 +33,7 @@
 <h6>Sobre nós:</h6>
 <strong>http://localhost:3000/sobre</strong>
 <br>
+<h6>Upload de arquivos:</h6>
+<strong>http://localhost:3000/upload</strong>
 <h6>Erro 404:</h6>
 <strong>http://localhost:3000/'qualquercoisa'</strong>
