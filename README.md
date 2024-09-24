@@ -17,7 +17,9 @@
 No LAB64, criamos um server utilizando Node.JS
 <br>
 <br>
-OBS: express precisa estar instalado, com o comando:
+<strong>Entre na pasta do LAB64 antes de digitar qualquer comando!</strong>
+
+<h6>express precisa estar instalado com o comando:</h6>
 
  <strong>npm install express</strong>
 
