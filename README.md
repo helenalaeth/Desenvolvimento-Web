@@ -49,5 +49,6 @@ curl http://127.0.0.1:3000/sobre
 curl -X POST http://127.0.0.1:3000/upload -F "file=@caminho_para_arquivo/arquivo.txt"
 
 <br>
-OBS: Substitua caminho_para_arquivo/arquivo.txt pelo caminho real do arquivo que você deseja enviar.
+<br>
+<strong>OBS:</strong> Substitua caminho_para_arquivo/arquivo.txt pelo caminho real do arquivo que você deseja enviar.
 
