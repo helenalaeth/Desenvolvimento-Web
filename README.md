@@ -37,7 +37,7 @@
 <br>
 <br>
 
-<h3>Comandos para Teste</h3>
+<h3>Comandos para Teste no Prompt de Comando</h3>
 <strong>Testar a página inicial:</strong>
 curl http://127.0.0.1:3000/
 <br>
