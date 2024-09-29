@@ -19,9 +19,6 @@
 <br>
 <strong>Entre na pasta do LAB64 antes de digitar qualquer comando!</strong>
 
-<h4>--> Express deve ser instalado com o comando:</h4>
-
- <strong>npm install express</strong>
 
 <h4>--> Comando para rodar o server:</h4>
 <strong>node server js</strong> 
@@ -37,3 +34,18 @@
 <strong>http://localhost:3000/upload</strong>
 <h6>Erro 404:</h6>
 <strong>http://localhost:3000/'qualquercoisa'</strong>
+<br>
+<br>
+
+<h3>Comandos para Teste</h3>
+<strong>Testar a página inicial:</strong>
+curl http://127.0.0.1:3000/
+<br>
+<strong>Testar a página Sobre:</strong>
+curl http://127.0.0.1:3000/sobre
+<br>
+<strong>Upload de arquivo:</strong>
+curl -X POST -F "file=@caminho_para_arquivo/arquivo.txt" http://127.0.0.1:3000/upload
+<br>
+OBS: Substitua caminho_para_arquivo/arquivo.txt pelo caminho real do arquivo que você deseja enviar.
+
