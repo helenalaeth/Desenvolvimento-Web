@@ -24,17 +24,17 @@ const upload = multer({storage})
 
 //app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/', (req, res) => {
+app.get('/upload', (req, res) => {
     res.render("index");
 });
 
-//app.get('/upload', (req, res) => {
-  //  res.sendFile(path.join(__dirname, 'public', 'upload.html')); // Verifique se está assim
-//});
+app.get('/', (req, res) => {
+   res.sendFile(path.join(__dirname, 'public', 'index.html')); 
+});
 
-//app.get('/sobre', (req, res) => {
-  //  res.sendFile(path.join(__dirname, 'public', 'sobre.html'));
-//});
+app.get('/sobre', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'sobre.html'));
+});
 
 // Rota para fazer o upload de arquivos
 app.post('/upload', upload.single("file"), (req, res) => {
@@ -42,9 +42,9 @@ app.post('/upload', upload.single("file"), (req, res) => {
 });
 
 // Rota para tratamento de erros 404
-//app.use((req, res) => {
-  //  res.status(404).send("404 - Página não encontrada");
-//});
+app.use((req, res) => {
+  res.status(404).send("404 - Página não encontrada");
+});
 
 // Inicia o servidor
 app.listen(3000, function() {
