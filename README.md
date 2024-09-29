@@ -21,7 +21,7 @@
 
 
 <h4>--> Comando para rodar o server:</h4>
-<strong>node server js</strong> 
+<strong>node server.js</strong> 
 
 <h3>**LINKS**</h3> 
 <h6>Página inicial:</h6>
