@@ -45,6 +45,7 @@ curl http://127.0.0.1:3000/
 curl http://127.0.0.1:3000/sobre
 <br>
 <strong>Upload de arquivo no Windows:</strong>
+<br>
 curl -X POST http://127.0.0.1:3000/upload -F "file=@caminho_para_arquivo/arquivo.txt"
 
 <br>
