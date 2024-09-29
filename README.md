@@ -44,8 +44,9 @@ curl http://127.0.0.1:3000/
 <strong>Testar a página Sobre:</strong>
 curl http://127.0.0.1:3000/sobre
 <br>
-<strong>Upload de arquivo:</strong>
-curl -X POST -F "file=@caminho_para_arquivo/arquivo.txt" http://127.0.0.1:3000/upload
+<strong>Upload de arquivo no Windows:</strong>
+curl -X POST http://127.0.0.1:3000/upload -F "file=@caminho_para_arquivo/arquivo.txt"
+
 <br>
 OBS: Substitua caminho_para_arquivo/arquivo.txt pelo caminho real do arquivo que você deseja enviar.
 
